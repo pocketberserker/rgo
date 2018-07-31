@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "name": "character0",
+    "klass": "Avenger",
+    "assetId": "character0",
+    "greeting": [
+      "テストキャラクターです。"
+    ],
+    "rank": 0
+  },
+  {
+    "id": "1",
+    "name": "character1",
+    "klass": "Avenger",
+    "assetId": "character1",
+    "greeting": [
+      "ルビを",
+      [
+        {
+          "value": "{ \"rb\": \"ふ　　　\", \"rt\": \"ル　　　\" }"
+        },
+        {
+          "value": "{ \"rb\": \"ふれ　　\", \"rt\": \"ルビ　　\" }"
+        },
+        {
+          "value": "{ \"rb\": \"ふれま　\", \"rt\": \"ルビで　\" }"
+        },
+        {
+          "value": "{ \"rb\": \"ふれます\", \"rt\": \"ルビです\" }"
+        }
+      ],
+      "。"
+    ],
+    "rank": 5
+  }
+]
